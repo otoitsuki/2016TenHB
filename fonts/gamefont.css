@@ -1,0 +1,5 @@
+@font-face {
+    font-family: GameFont;
+    /*src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlJbPFduIYtoLzwST68uhz_Y.woff2) format('woff2');*/
+    src: url("Source Han Sans.otf");
+}

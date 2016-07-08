@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":102,"indent":0,"parameters":[["原本服裝","黑貓耳朵","眼鏡","天使翅膀"],-2,0,1,0]},{"code":402,"indent":0,"parameters":[0,"原本服裝"]},{"code":322,"indent":1,"parameters":[1,"trigger_ten_ch2",0,"",0,"trigger_ten"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"黑貓耳朵"]},{"code":322,"indent":1,"parameters":[1,"trigger_ten_ch2_kuroneko",0,"",0,"trigger_ten"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"眼鏡"]},{"code":322,"indent":1,"parameters":[1,"trigger_ten_ch2_glass",0,"",0,"trigger_ten"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"天使翅膀"]},{"code":322,"indent":1,"parameters":[1,"trigger_ten_ch2_angel",0,"",0,"trigger_ten"]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"更換裝備","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[1,"staffroll",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":[" "]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"Staff List","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
